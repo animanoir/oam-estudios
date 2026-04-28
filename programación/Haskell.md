@@ -1,0 +1,1 @@
+Haskell es un lenguaje de [[programación funcional]] de [[funciones puras]]. Es decir, declaras lo que *algo es*, en lugar de escribirle a la computadora una secuencia de instrucciones, como sucede en la [[programación imperativa]].

@@ -1,0 +1,62 @@
+# ============================================
+# Obsidian
+# ============================================
+
+# Estado local del workspace (paneles abiertos, layout, archivo activo).
+# Es específico de cada máquina — si lo sincronizas, vas a tener
+# conflictos cada vez que cambies de equipo.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Cachés y datos efímeros
+.obsidian/cache
+.obsidian/cache.json
+
+# Papelera local de Obsidian (si tienes activada "Move to Obsidian trash")
+.trash/
+
+# Nota: el resto de .obsidian/ (plugins, themes, hotkeys, app.json,
+# core-plugins.json, community-plugins.json, snippets) SÍ se versiona
+# para que tu configuración te siga entre máquinas.
+
+# ============================================
+# macOS
+# ============================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Resource forks y metadata de archivos
+._*
+
+# Archivos de Spotlight, Time Machine y otros servicios del sistema
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Discos compartidos / red
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ============================================
+# Editores (NeoVim / Vim)
+# ============================================
+
+*.swp
+*.swo
+*.swn
+*~
+Session.vim
+.netrwhist
+
+# ==================================
