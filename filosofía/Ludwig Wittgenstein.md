@@ -1,0 +1,1 @@
+Filósofo del [[Lenguaje]] y la [[Mente]].

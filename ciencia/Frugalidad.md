@@ -1,0 +1,1 @@
+Esto se refiere a que la [[Naturaleza]] tiende a usar **reglas simples** para gobernar las [[Emergencia|interacciones entre agentes]] y que además **las repite** en diferentes lugares.

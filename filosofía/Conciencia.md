@@ -1,0 +1,1 @@
+La conciencia es la amalgama de [[Atención]] que le damos a un conjunto de entidades [[Sensaciones|sensoriales]] moduladas por nuestro léxico [[Concepto|conceptual]] mediante la [[Metacognición]].

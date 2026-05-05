@@ -1,0 +1,1 @@
+Implica una persistencia en el [[Tiempo]]. Similarmente, la [[Recursión]] es responsable por los varios tipos de similitud vistas en la Naturaleza.

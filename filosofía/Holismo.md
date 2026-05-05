@@ -1,0 +1,1 @@
+Parece ser que a la [[Frugalidad]].

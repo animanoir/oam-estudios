@@ -1,0 +1,1 @@
+Pérdida progresiva de la [[Memoria]] por placa senil, entre otras cosas.
