@@ -1,0 +1,1 @@
+Individuar es resolver un problema [[existencialismo|existencial]]. Cada individuación genera una realidad *pre-individual* que servirá a su vez para las individuaciones sucesivas, pero sólo dentro del plano de esa línea "individuatoria".
