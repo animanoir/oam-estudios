@@ -31,3 +31,10 @@ En otros términos, son un [[Sistema metaestable]] y sobresaturado.
 ## Transindividual
 
 Cuando lo colectivo se [[Individuación|individua]] precisamente a través de esa carga pre-individual compartida que cada uno arrastra. Es decir, lo social no es la suma de individuos completos, sino la **resolución conjunta de un pre-individual común**.
+
+# [[Objeto técnico]]
+
+Leyendo, encuentro esta cita:
+> La presencia del hombre en las máquinas es una invención perpetuada. **Lo que reside en las máquinas es la *realidad humana* el gesto humano fijado y cristalizado en estructuras que funcionan**.
+
+Esto me recuerda al concepto de [[Intelecto general]] de [[Karl Marx]].

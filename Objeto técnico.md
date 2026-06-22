@@ -1,0 +1,1 @@
+Para [[Gilbert Simondon]], un objeto técnico no es sólo "una herramienta", sino **un [[sistema]] que ha pasado por un proceso de génesis–una evolución hacia su coherencia interna**, que en su misma filosofía es la [[Concretización]].
