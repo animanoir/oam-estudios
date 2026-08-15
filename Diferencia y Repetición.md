@@ -1,0 +1,1 @@
+Libro escrito por [[Gilles Deleuze]] donde intenta zafarnos del pensamiento [[Platonismo|de Platón]] sobre "esencias" e [[Identidad|identidades]] fijas.

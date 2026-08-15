@@ -1,0 +1,1 @@
+El Time Complexity es un rama de la [[Ciencia de la computación]] que estudia **el tiempo que tardaría algo en computarse**.

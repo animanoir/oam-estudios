@@ -1,0 +1,1 @@
+Escribió el libro [[Proceso y Realidad]]. También inspiró a [[Gilles Deleuze]] y se asemeja un tanto a [[Leibniz]].

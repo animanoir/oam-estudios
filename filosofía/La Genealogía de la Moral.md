@@ -1,0 +1,1 @@
+Escrito por [[Frederich Nietzsche]], argumenta que la [[Moralidad|moral]] no es algo "natural", sino que emergió de lo que los nombres, reyes y poderes sacerdotales consideraban "bueno". Es decir, ellos mismos medían lo "bueno" y lo "malo" midiéndose a sí mismos.

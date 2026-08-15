@@ -1,0 +1,1 @@
+ℕ es el conjunto de los **números naturales**: 0, 1, 2, 3, 4… Sus vecinos son ℤ (enteros, con negativos), ℚ (racionales, las fracciones) y ℝ (reales, con los irracionales tipo π).

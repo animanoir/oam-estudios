@@ -1,0 +1,1 @@
+Unidad de Investigación de Cultura [[Cibernética]]. Sumamente inspirado por [[Gilles Deleuze]] y [[Félix Guattari]].

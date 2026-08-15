@@ -1,0 +1,1 @@
+Cuando se vuelve algo "abstracto" como "concreto", como la gravedad. Lo vi de un video sobre [[Alfred North Whitehead]].
