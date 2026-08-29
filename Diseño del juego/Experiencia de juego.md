@@ -1,0 +1,1 @@
+Las sensaciones, [[Afectos]] y [[Emociones]] que queremos provocar en el [[Jugador]]. Íntimamente relacionado con [[4. La Experiencia Surge de un Juego]].

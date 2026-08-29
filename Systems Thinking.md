@@ -24,4 +24,10 @@ Relacionado con la [[Cibernética]]. Ocupa conceptos como:
 		1. **Un recorte es malo cuando corta por donde los acoplamientos son fuertes**
 9. Un sistema puede ser usado como herramienta analítica o especulativa para analizar [[Filosofía del Proceso|procesos]] futuros.
 
+
 ![[Pasted image 20260815120846.png]]
+# Sistemas de herramientas
+## [[Afordancias]]
+
+## Usuario pasivo - activo / Usuario directo - de entorno
+

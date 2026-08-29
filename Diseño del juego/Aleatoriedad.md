@@ -1,0 +1,5 @@
+---
+tags:
+  - mecánicas
+---
+[[Mecánica, Chance]]

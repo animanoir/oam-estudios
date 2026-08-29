@@ -4,7 +4,7 @@ Por ello, se puede decir que hay un conexión cercana entre pruebas [[Matemátic
 
 **Pero resulta que hay más posibles mapeos que programas posibles. Ergo, *existen cosas que simplemente no pueden computarse***.
 
-Diferentes modelos de computación son [[Tesis Turing-Church|equivalentes]]. Por ejemplo, el [[Cálculo Lambda]], Funciones Recursivas Generales y [[Máquinas de Turing]].
+Diferentes modelos de computación son [[Tesis Turing-Church|equivalentes]]. Por ejemplo, el [[Cálculo Lambda λ]], Funciones Recursivas Generales y [[Máquinas de Turing]].
 
 > **Programa *decidible***: Aquel que sabremos si terminará o no de computar, derivado del [[Halting Set]]. No quiere decir "rapidez", sino que la *espera tiene fondo*.
 

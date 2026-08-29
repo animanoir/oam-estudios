@@ -1,1 +1,1 @@
-Lenguaje de programación creado por John McArthy inspirado en el [[Cálculo Lambda]].
+Lenguaje de programación creado por John McArthy inspirado en el [[Cálculo Lambda λ]].

@@ -1,0 +1,3 @@
+Objetivos **dentro** del juego. Estos objetivos son **personales, satisfactorios y significativos para uno mismo**.
+
+**Los objetivos intrínsecos alimentan la [[Motivación]] y ganas de un individuo hacia [[Recompensas]] que están relacionadas con su persona**. Satisfacen necesidades base humanas por **relacionarse, autonomía y competencia**. Incluyen objetivos referentes a sus **pasiones, intereses, valores centrales, relaciones, crecimiento personal, salud física, auto-aceptación y contribución**. Estar *intrínsecamente motivado* es acerca de **disfrutar el proceso de lo que estás haciendo, no del resultado**.

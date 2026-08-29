@@ -1,0 +1,1 @@
+El código de [[Programación]] es datos (listas). Usado en [[Lisp]] y [[Racket]], entre otros de la familia Lisp.

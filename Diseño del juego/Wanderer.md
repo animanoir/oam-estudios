@@ -1,0 +1,1 @@
+Se enfocan en diversión, variedad, estados alterados, retos, personas, finura, historia y sandbox.
