@@ -1,4 +1,5 @@
 [[Concept Book]]
+[[Prototype Library]]
 
 El libro habla sobre la [[Emergencia]], que define así:
 - Un fenomeno de [[Diseño de juegos]] en donde las características de [[Juego]] se manifiestan independientemente cuando el jugador interactúa con las [[Mecánicas de juego]] y pone en marcha el [[Sistema]] en movimiento.
@@ -90,4 +91,34 @@ Cualquier idea de juego en potencia **es mejor decidirla mediante un prototipo t
 
 Cuando encuentre partes divertidas, **¿cómo puedo expandirlas al resto del juego?** Esto sirve para darle **consistencia al juego**.
 
+### Learn more:
 
+Sobre el juego *Downwell* y la pregunta: ¿cómo es que manteniendo una mente abierta durante el prototipado rápido ayudó a Fumoto a encontrar la [[12. Algunos Elementos Son Mecánicas de Juego|mecánica]] principal del juego?
+
+Mi respuesta es: que aceptó que los juegos que hizo al principio eran literalmente mierda, sin buscarles salvación. Con Downwell encontró que el uso de las "botas" *le resultaba lo más divertido*, por lo que **orbitó el resto de las mecánicas en ellas**.
+# 4. The Relationship Between [[19. Las Historias y los Juegos Tienen Lugar en Mundos|Story]] and Games 
+
+## Términos
+
+- **emotional palette**:
+	- rango de posibles [[Afectos]] que un medio puede producir.
+- **agencia**:
+	- el poder de controlar tus propias acciones acompañadas por el conocimiento de que puedes hacerlo.
+- **linear storytelling**
+	- estructura narrativa tradicional donde la audiencia sigue de principio a fin una historia.
+- **[[Narrativas no-lineales]]**
+	- una estructura narrativa donde los [[Story Beats]] de una historia son presentados fuera de orden, o descubiertos por la audiencia en el orden que eligan.
+
+![[Pasted image 20260903132833.png]]
+Una historia se puede **deconstruir** en personajes, objetos, etc., que el jugador puede **jugar**, que llevan a **generar** la historia a su vez, y ésta se reintegra a la historia original.
+
+## Paletas emocionales: empatía vs. agencia
+
+- La paleta emocional de los juegos deriva de la agencia:
+	- el diseñador de juegos controla la paleta emocional que el jugador directamente sentirá, que abarca más que la empatía (pueden ser frustración, asombro, curiosidad, tristeza, etc.)
+- La paleta emocional de las películas de la empatía: 
+	- uno siente empatía con los personajes.
+
+## Permitir al jugador ser un storyteller
+
+En los juegos de Will, **los jugadores se contaban a sí mismos historias que el juego no obliga a consumir.** Por ello, dado que esta parte era **divertida**, se **expandió** dándoles a los jugadores herramientas para capturar sus propias historias.
